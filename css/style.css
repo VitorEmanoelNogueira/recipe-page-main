@@ -137,7 +137,8 @@ td{
 
 
 .attribution { 
-    font-size: 16px; text-align: center; 
+    font: normal 400 1em/150% 'outfit';
+    text-align: center; 
 }
 .attribution a { 
     color: var(--c2); 
