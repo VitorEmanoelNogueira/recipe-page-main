@@ -37,6 +37,10 @@
         border-radius: 10px;
     }
 
+    aside{
+        margin: 0px;
+    }
+
     table{
         margin-bottom: -20px;
     }
