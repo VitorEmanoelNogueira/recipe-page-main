@@ -24,8 +24,8 @@
     
     main{
         background-color: white;
-        width: 615px;
-        padding: 25px;
+        width: 740px;
+        padding: 40px;
         border-radius: 20px;
     }
 
@@ -35,8 +35,9 @@
 
     picture, picture > img{
         border-radius: 10px;
+    }
 
-
-
+    table{
+        margin-bottom: -20px;
     }
 }

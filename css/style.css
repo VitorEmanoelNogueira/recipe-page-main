@@ -136,5 +136,9 @@ td{
 }
 
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: var(--c2); }
+.attribution { 
+    font-size: 16px; text-align: center; 
+}
+.attribution a { 
+    color: var(--c2); 
+}
